@@ -14,3 +14,5 @@
 
 ![detailsthundr2](https://user-images.githubusercontent.com/30512638/156729285-9a946bb9-adc5-443a-ac82-994878204522.jpg)
 
+
+* [Linkedin](https://www.linkedin.com/in/bartosz-osi%C5%84ski-8248a421b/)
