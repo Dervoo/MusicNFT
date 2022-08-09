@@ -10,34 +10,6 @@ module.exports = {
     hardhat: {
       chainId: 1337,
     },
-    Polygon: {
-      url: secret.polygon_url,
-      accounts: [secret.polygon_key],
-    },
-    Mumbai: {
-      url: secret.mumbai_url,
-      accounts: [secret.mumbai_key],
-    },
-    Bsctest: {
-      url: secret.bsctest_url,
-      accounts: [secret.bsctest_key],
-    },
-    Bsc: {
-      url: secret.bsc_url,
-      accounts: [secret.bsc_key],
-    },
-    Ethereum: {
-      url: secret.ethereum_url,
-      accounts: [secret.ethereum_key],
-    },
-    Ropsten: {
-      url: secret.ropsten_url,
-      accounts: [secret.ropsten_key],
-    },
-    Kovan: {
-      url: secret.kovan_url,
-      accounts: [secret.kovan_key],
-    },
     Rinkeby: {
       url: secret.rinkeby_url,
       accounts: [secret.rinkeby_key],
