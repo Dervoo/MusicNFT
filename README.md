@@ -12,3 +12,4 @@
 
 ## [Linkedin](https://www.linkedin.com/in/bartosz-osi%C5%84ski-8248a421b/)
 ## [Website](https://bchaindevosinski.netlify.app)
+## [YouTube](https://www.youtube.com/channel/UCpJEWOQslUmCbBhu7Z5I6Cg)
